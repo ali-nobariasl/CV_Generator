@@ -1,6 +1,5 @@
 # CV_Generator
-
-Preconditions:
+Preconditions: <br>
 1. <br>
 pip install pdfkid <br>
 2. <br>
