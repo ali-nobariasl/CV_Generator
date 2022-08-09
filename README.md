@@ -10,3 +10,6 @@ https://wkhtmltopdf.org/downloads.html <br>
 Add wkhtmltopdf inistal file to environment variables <br>
 4. <br>
 pip install django
+
+
+![image](https://user-images.githubusercontent.com/56727121/183591899-13428cd6-3a9f-44d4-90ab-6074a8a3d72c.png)
