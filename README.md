@@ -1,5 +1,5 @@
 # CV_Generator
-<h2>A web-base CV generator with using Django/Pyhon </h2>  <br>
+<h4>A web-base CV generator with using Django/Pyhon </h4>  <br>
 Preconditions: <br>
 1. <br>
 pip install pdfkid <br>
